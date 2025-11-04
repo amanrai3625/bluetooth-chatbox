@@ -1,0 +1,5 @@
+{
+  "name": "Bluetooth Device Chat Room",
+  "description": "A simulated Bluetooth device chat room application powered by Gemini. Discover and connect to mock Bluetooth devices, then enter a shared chat room where an AI acts as the collective consciousness of your connected gadgets.",
+  "requestFramePermissions": []
+}
